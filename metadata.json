@@ -1,0 +1,7 @@
+{
+  "name": "RS Setup Counter",
+  "description": "An automated setup and push-up counter using mobile sensors and camera motion detection, designed with a premium dark and neon pink theme.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
